@@ -1,0 +1,23 @@
+{
+  "name": "test_node_js",
+  "version": "0.0.1",
+  "dependencies": {
+    "formidable": "latest",
+    "mv": "^2.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "by cnstbmb",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "cnstbmb",
+  "license": "UNLICENSED"
+}
